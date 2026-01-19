@@ -1,0 +1,51 @@
+student_id,subject,topic,predicted_score,topic_status,recommended_hours
+1,Chemistry,Organic,33.556319181373645,WEAK,6.6
+1,Computer Science,Databases,61.735453786543346,STRONG,3.8
+1,Computer Science,Algorithms,37.152352802404835,WEAK,6.3
+1,Chemistry,Physical,42.0295241471278,WEAK,5.8
+1,Physics,Kinematics,35.18010244957831,WEAK,6.5
+1,Physics,Thermodynamics,37.08212289652322,WEAK,6.3
+2,Physics,Kinematics,45.18123591449695,WEAK,5.5
+2,Computer Science,Algorithms,37.819023840676905,WEAK,6.2
+2,Computer Science,Data Structures,50.78303211437067,WEAK,4.9
+2,Chemistry,Physical,71.07838603400468,STRONG,2.9
+2,Physics,Electromagnetism,29.30670328090535,WEAK,7.1
+2,Computer Science,Databases,65.56963078746388,STRONG,3.4
+3,Physics,Optics,46.926581424898835,WEAK,5.3
+3,Computer Science,Algorithms,41.54946874115077,WEAK,5.8
+3,Chemistry,Physical,66.96081547125974,STRONG,3.3
+4,Physics,Optics,52.196160315642025,WEAK,4.8
+4,Chemistry,Organic,48.70218134159427,WEAK,5.1
+4,Physics,Optics,55.87725825945909,WEAK,4.4
+5,Physics,Electromagnetism,41.75595881357867,WEAK,5.8
+5,Physics,Kinematics,72.1984640951503,STRONG,2.8
+5,Computer Science,Databases,45.430369212536135,WEAK,5.5
+5,Physics,Thermodynamics,48.60622845035771,WEAK,5.1
+5,Chemistry,Inorganic,36.86865570336325,WEAK,6.3
+5,Chemistry,Organic,51.65559912669171,WEAK,4.8
+5,Physics,Kinematics,36.88556795441801,WEAK,6.3
+7,Chemistry,Inorganic,39.04334825613597,WEAK,6.1
+7,Chemistry,Electrochemistry,27.490554773641744,WEAK,7.3
+7,Chemistry,Inorganic,63.89086590743782,STRONG,3.6
+7,Chemistry,Electrochemistry,47.26262328413485,WEAK,5.3
+7,Computer Science,OS,32.57791775326303,WEAK,6.7
+7,Physics,Electromagnetism,61.98061018479281,STRONG,3.8
+7,Chemistry,Inorganic,64.45550296221153,STRONG,3.6
+8,Chemistry,Electrochemistry,54.475054355070114,WEAK,4.6
+8,Physics,Kinematics,49.44019754077446,WEAK,5.1
+8,Physics,Optics,55.307613351484015,WEAK,4.5
+8,Computer Science,OS,61.72051735981245,STRONG,3.8
+9,Computer Science,Databases,75.92624349346612,STRONG,2.4
+9,Physics,Thermodynamics,60.99945688600471,STRONG,3.9
+9,Computer Science,OS,58.006664986990245,WEAK,4.2
+9,Chemistry,Inorganic,41.74162717085142,WEAK,5.8
+9,Physics,Electromagnetism,48.95672772072319,WEAK,5.1
+9,Chemistry,Organic,43.788081691934664,WEAK,5.6
+9,Computer Science,Data Structures,42.12682540044645,WEAK,5.8
+9,Physics,Thermodynamics,33.31219176711438,WEAK,6.7
+9,Computer Science,OS,51.000000000000014,WEAK,4.9
+9,Computer Science,Algorithms,49.02862335691832,WEAK,5.1
+9,Computer Science,Data Structures,35.973147223695406,WEAK,6.4
+10,Chemistry,Physical,33.931274347607754,WEAK,6.6
+10,Chemistry,Electrochemistry,51.77176758715328,WEAK,4.8
+10,Computer Science,Data Structures,71.90002737585819,STRONG,2.8
