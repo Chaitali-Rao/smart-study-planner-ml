@@ -29,16 +29,19 @@ Linear Regression
 Random Forest Regressor
 
 Project Structure
+```markdown
 Smart-Study-Planner-ML/
 ├── data/
 │   └── student_performance.csv
 ├── src/
-│   ├── train model.py
+│   ├── train_model.py
 │   └── predict.py
 ├── outputs/
 │   └── study_plan.csv
 ├── requirements.txt
 └── README.md
+```
+
 
 How to Run:
 1.Install dependencies
